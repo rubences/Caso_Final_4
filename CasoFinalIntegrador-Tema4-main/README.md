@@ -35,6 +35,4 @@ Y un ultimo boton extra que he añadido que consiste en un modo oscuro.
 
 11. **Método main()**: Este es el punto de entrada de su aplicación. Establece la apariencia de la aplicación en Nimbus y luego crea una instancia de la clase "MAIN" y la hace visible.
 
-Espero que le guste. 
 
-**ADRIANA REYES MORERA**
